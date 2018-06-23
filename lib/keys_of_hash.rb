@@ -11,4 +11,3 @@ class Hash
     matches
   end
 end
-
