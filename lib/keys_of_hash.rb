@@ -1,5 +1,5 @@
 class Hash
   def keys_of(arguments)
-    *arguements
+    arguements.each {|args| return args}
   end
 end
